@@ -3,7 +3,7 @@ const project = {
     status: "draft",
     theme: "light",
     language: "uk",
-    itemsPerPage: 10,
+    itemsPerPage: 25,
     welcomeMessage: "Welcome",
     dateFormat: "DD.MM.YYYY",
     sortOrder: "ascending",
